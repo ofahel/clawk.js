@@ -1,0 +1,19 @@
+{
+  "name": "clawk.js",
+  "version": "1.0.0",
+  "description": "Clawk.js — TikTok Info Extractor (fetch public user info by username, CLI + importable module)",
+  "main": "lib/index.mjs",
+  "type": "module",
+  "bin": {
+    "clawk.js": "bin/clawk.js"
+  },
+  "keywords": ["tiktok","scraper","clawk","tiktok-info","cli"],
+  "author": "Your Name",
+  "license": "WTFPL",
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
