@@ -23,7 +23,7 @@ function printBanner() {
 
 
 function printUsage() {
-  console.log("Usage: clawk.js <username>");
+  console.log("Usage: clawk <username>");
 }
 
 async function main() {
