@@ -36,7 +36,7 @@ fetchUserInfo('username_to_fetch');
 ```
 ## 👩🏻‍💻 Via CLI
 ```
-npx clawk.js username
+npx clawk username
 ```
 ----------
 
